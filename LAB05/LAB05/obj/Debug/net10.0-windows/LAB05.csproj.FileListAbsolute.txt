@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\LAB05\LAB05\bin\Debug\net10.0-windows\LAB05.exe
+C:\Users\User\Desktop\LAB05\LAB05\bin\Debug\net10.0-windows\LAB05.deps.json
+C:\Users\User\Desktop\LAB05\LAB05\bin\Debug\net10.0-windows\LAB05.runtimeconfig.json
+C:\Users\User\Desktop\LAB05\LAB05\bin\Debug\net10.0-windows\LAB05.dll
+C:\Users\User\Desktop\LAB05\LAB05\bin\Debug\net10.0-windows\LAB05.pdb
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.Form1.resources
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.AssemblyInfo.cs
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.dll
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\refint\LAB05.dll
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.pdb
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\LAB05.genruntimeconfig.cache
+C:\Users\User\Desktop\LAB05\LAB05\obj\Debug\net10.0-windows\ref\LAB05.dll
